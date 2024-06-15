@@ -1,0 +1,19 @@
+.selectCountryStateContainer {
+    display: flex;
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+    padding: 20px;
+  }
+  
+  .selectCountryStateContainer h1 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #ad2626; 
+  }
+  
+  .selectContainer {
+    width: 40%;
+    margin-bottom: 20px;
+  }
